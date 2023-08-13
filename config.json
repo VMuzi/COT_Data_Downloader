@@ -1,0 +1,9 @@
+{
+    "filepath":"C:\\COTImport",
+    "backuppath":"C:\\COTImport\\backup",
+    "server": "",
+    "database": "DOMData",
+    "username": "domuser",
+    "password": "",
+    "extension":".txt"
+}
